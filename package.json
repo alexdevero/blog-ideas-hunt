@@ -1,0 +1,49 @@
+{
+  "name": "blog-ideas-hunt",
+  "version": "0.0.1",
+  "description": "Dashboard with voting system for blog ideas, aka Product Hunt, to let people vote for topics they want to read about.",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexdevero/blog-ideas-hunt.git"
+  },
+  "homepage": "https://github.com/blog-ideas-hunt#readme",
+  "bugs": {
+    "url": "https://github.com/blog-ideas-hunt/issues"
+  },
+  "author": {
+    "name": "Alex Devero",
+    "url": "https://alexdevero.com/"
+  },
+  "contributors": [{
+    "name": "",
+    "email": "",
+    "url": ""
+  }],
+  "keywords": [
+    "blog",
+    "dashboard",
+    "hunt",
+    "ideas",
+    "product-hunt",
+    "react",
+    "reactjs"
+  ],
+  "engines": {
+    "node": ">=10.x",
+    "npm": ">=6.x",
+    "yarn": ">=1.0"
+  },
+  "main": "lib/foo.js",
+  "bin": {
+    "foo": "./foo.js"
+  },
+  "scripts": {
+    "test": "echo 'test'",
+    "start": "echo 'start'",
+    "prepublish": "echo 'build'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
