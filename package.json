@@ -36,9 +36,6 @@
     "yarn": ">=1.0"
   },
   "main": "lib/foo.js",
-  "bin": {
-    "foo": "./foo.js"
-  },
   "scripts": {
     "test": "echo 'test'",
     "start": "echo 'start'",
